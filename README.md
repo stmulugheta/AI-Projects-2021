@@ -2,6 +2,11 @@
 
 kEY WORDS: COMPUTER VISION, ARTEFICIAL INTELLIGENCE, MACHINE LEARNING, DEEP LEARNING, PAYTHON, TABLEAU, POWER BI, DATA COLLECTION, DATA PREPROCESSING, EXPLATORY DATA ANALYSIS, DATA VISUALIZATION,MODDLLING, MODEL BUILDING, DEVELOPMENT, MODEL DEPLOYMENT, API, STREAMLIT.
 
+DATA SCIENCE MASTERS CAPSTONE PROJECT: 
+
+TITLE: AIRLINE PASSENGER SATISFACTION:ACTION-ORIENTED RECOMMENDATIONS FOR TRAVEL EXPERIENCE IMPROVEMENTS
+
+REAL WORLD AI SOLUTIONS PROJECTS: 
 1. Omdena-FoodTech Project : Preventing Food Waste by Building a Forecasting Model to Predict Sales of Fresh Food . For more infomation:https://omdena.com/projects/food-prediction/)
 2. Omdena-Kanda Weather Group-Project : Building a 12-hour Rainfall Forecasting AI Model to Mitigate Climate Change Variability in West Africa. (For more infomation:https://omdena.com/projects/rainfall-forecasting/
 3. Omdena-OkO Finance Project : Using Satellite Imagery to Detect and Assess the Damage of Armyworms in Farming. (For more Information: https://omdena.com/projects/armyworms-assessment/
