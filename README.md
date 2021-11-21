@@ -9,9 +9,9 @@ DATA SCIENCE MASTERS CAPSTONE PROJECT: </br>
 
 # # REAL WORLD AI SOLUTIONS PROJECTS: </br>
 
-6. #Omdena - Ceretai Project: __Using Computer Vision to Detect Ethicity in TV news and Vidoes and Improve Racism Awareness. Fore more infor      https://omdena.com/projects/ethnicity-awareness/</br>
-5. #Omdena-FoodTech Project : __Preventing Food Waste by Building a Forecasting Model to Predict Sales of Fresh Food . For more infomation:https://omdena.com/projects/food-prediction/) </br>
-4. #Omdena-Kanda Weather Group-Project : __Building a 12-hour Rainfall Forecasting AI Model to Mitigate Climate Change Variability in West Africa. (For more infomation:https://omdena.com/projects/rainfall-forecasting/ </br>
-3. #Omdena-OkO Finance Project : __Using Satellite Imagery to Detect and Assess the Damage of Armyworms in Farming. (For more Information: https://omdena.com/projects/armyworms-assessment/ </br>
-2. #Omdena-Origin chain Network Project: __Applying Remote Sensing and Computer Vision for Farming Habitat Classification  (For more information: https://omdena.com/projects/ai-farming/</br>
-1. #Omdena-ACET project: __Building an ML Model to Predict Future Infrastructure Needs of Africa for Policy Makers(for Iformation: https://omdena.com/projects/ai-africa/</br>
+. #Omdena - Ceretai Project: __Using Computer Vision to Detect Ethicity in TV news and Vidoes and Improve Racism Awareness. Fore more infor      https://omdena.com/projects/ethnicity-awareness/</br>
+. #Omdena-FoodTech Project : __Preventing Food Waste by Building a Forecasting Model to Predict Sales of Fresh Food . For more infomation:https://omdena.com/projects/food-prediction/) </br>
+. #Omdena-Kanda Weather Group-Project : __Building a 12-hour Rainfall Forecasting AI Model to Mitigate Climate Change Variability in West Africa. (For more infomation:https://omdena.com/projects/rainfall-forecasting/ </br>
+. #Omdena-OkO Finance Project : __Using Satellite Imagery to Detect and Assess the Damage of Armyworms in Farming. (For more Information: https://omdena.com/projects/armyworms-assessment/ </br>
+. #Omdena-Origin chain Network Project: __Applying Remote Sensing and Computer Vision for Farming Habitat Classification  (For more information: https://omdena.com/projects/ai-farming/</br>
+. #Omdena-ACET project: __Building an ML Model to Predict Future Infrastructure Needs of Africa for Policy Makers(for Iformation: https://omdena.com/projects/ai-africa/</br>
