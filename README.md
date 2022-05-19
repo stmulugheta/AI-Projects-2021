@@ -8,7 +8,7 @@ DATA SCIENCE MASTERS CAPSTONE PROJECT: </br>
 
 # # REAL WORLD AI SOLUTIONS PROJECTS: </br>
 
-1. # Omdena- Carryt project: _Optimazing Routes to improve logistics using AI planning
+1. #Omdena- Carryt project: _Optimazing Routes to improve logistics using AI planning
 2. #Omdena - Ceretai Project: __Using Computer Vision to Detect Ethicity in TV news and Vidoes and Improve Racism Awareness. Fore more infor      https://omdena.com/projects/ethnicity-awareness/</br>
 3. #Omdena-FoodTech Project : __Preventing Food Waste by Building a Forecasting Model to Predict Sales of Fresh Food . For more infomation:https://omdena.com/projects/food-prediction/) </br>
 4. #Omdena-Kanda Weather Group-Project : __Building a 12-hour Rainfall Forecasting AI Model to Mitigate Climate Change Variability in West Africa. (For more infomation:https://omdena.com/projects/rainfall-forecasting/ </br
